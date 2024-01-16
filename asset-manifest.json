@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/millionaire_quiz_app/static/css/main.c380e57b.css",
+    "main.js": "/millionaire_quiz_app/static/js/main.28bf4f64.js",
+    "static/js/845.1340628c.chunk.js": "/millionaire_quiz_app/static/js/845.1340628c.chunk.js",
+    "static/media/wait.mp3": "/millionaire_quiz_app/static/media/wait.30e329da76ae665702f7.mp3",
+    "static/media/bg.jpg": "/millionaire_quiz_app/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/millionaire_quiz_app/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/millionaire_quiz_app/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/millionaire_quiz_app/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/millionaire_quiz_app/index.html",
+    "main.c380e57b.css.map": "/millionaire_quiz_app/static/css/main.c380e57b.css.map",
+    "main.28bf4f64.js.map": "/millionaire_quiz_app/static/js/main.28bf4f64.js.map",
+    "845.1340628c.chunk.js.map": "/millionaire_quiz_app/static/js/845.1340628c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c380e57b.css",
+    "static/js/main.28bf4f64.js"
+  ]
+}
